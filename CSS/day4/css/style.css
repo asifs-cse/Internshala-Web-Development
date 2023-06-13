@@ -6,4 +6,5 @@ p,h2{
     color: blue;
     font-size: 20dp;
     font-family: 'Courier New', Courier, monospace;
+    padding: 5dp;
 }
